@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I’m a Frontend Developer
 
-<!--
-**OleksandrOliiar/OleksandrOliiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build user-focused web applications with **React**, **Next.js**, and **TypeScript**, with an emphasis on clean architecture, UX clarity, and performance. I care about maintainable code, scalable state management, and smooth developer experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Core:**  
+- React  
+- Next.js  
+- TypeScript  
+- JavaScript  
+
+**Styling & UI:**  
+- Tailwind CSS  
+- Shadcn UI  
+- CSS Modules / Utility-first CSS  
+- Framer Motion (animations)
+
+**State & Data:**  
+- Redux Toolkit  
+- Zustand  
+- TanStack Query  
+- React Hook Form  
+- Zod  
+- Axios / Fetch API  
+- WebSockets
+
+**Mobile:**  
+- React Native
+
+**Testing & Quality:**  
+- Jest  
+- React Testing Library  
+- Playwright  
+- Eslint / Prettier
+
+---
+
+## 🤝 How I Work
+
+- End-to-end feature ownership (design → integration → testing → deployment)
+- Collaboration with designers, backend teams, and product stakeholders
+- Strong participation in reviews and technical discussions
+- Practical problem-solving with a bias toward iteration and shipping
